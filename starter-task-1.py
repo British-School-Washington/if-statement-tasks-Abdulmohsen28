@@ -2,8 +2,8 @@
 number = int(input("Enter an integer: "))
 
 # if the number is positive
-if number > 0:
-    # TODO: print positive message here
+if number > 15:
+    print("")
 
 # if the number is negative
 elif number < 0:
